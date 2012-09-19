@@ -1,4 +1,4 @@
-These are instructions for project
+Instructions
 -----------------------------------------------
 
 Main page, click on button
